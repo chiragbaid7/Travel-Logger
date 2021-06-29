@@ -1,3 +1,3 @@
 # Travel-Log
 
-https://travelloggers.herokuapp.com/ 
+https://travelloggers.herokuapp.com
