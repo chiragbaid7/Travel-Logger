@@ -5,14 +5,14 @@
 [✔] HTTP SERVER
     * [✔] EXPRESS
 
-[❌] Backend
+[✔] Backend
     *[✔] Connect to mongodb
     *[✔] Create a data model for Travel log + validation
-        [❌] Place
-        [❌] Description
-        [❌] Comments
-        [❌] Description
-        [❌] Ratings
+        [✔] Place
+        [✔] Description
+        [✔] Comments
+        [✔] Description
+        [✔] Ratings
     *[✔] Error Handling
     *[✔]API 
  
